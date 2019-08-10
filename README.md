@@ -1,7 +1,9 @@
 # multi-datasource
-springboot多数据源动态切换，主要是通过 AbstractRoutingDataSource 的 determineCurrentLookupKey 方法和线程局部变量 ThreadLocal 来动态切换数据源
+![](https://raw.githubusercontent.com/kisssyou/resource/master/image/sky1.jpg?token=AHU6NF7P5ZM5W2DGA5GGJQS5J3PM4)
 
 ---
++ 原理  
+springboot多数据源动态切换，主要是通过 AbstractRoutingDataSource 的 determineCurrentLookupKey 方法和线程局部变量 ThreadLocal 来动态切换数据源
 + 配置文件
 ```
 spring:
