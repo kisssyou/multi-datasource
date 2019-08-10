@@ -1,0 +1,10 @@
+{
+  "properties": [
+    {
+      "name": "spring.datasource.default",
+      "type": "java.lang.String",
+      "description": "默认数据源",
+      "defaultValue": "master"
+    }
+  ]
+}
