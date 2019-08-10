@@ -1,5 +1,5 @@
 # multi-datasource
-![](https://raw.githubusercontent.com/kisssyou/resource/master/image/sky1.jpg?token=AHU6NF7P5ZM5W2DGA5GGJQS5J3PM4)
+![](https://github.com/kisssyou/resource/blob/master/image/sky1.jpg)
 
 ---
 + 原理  
